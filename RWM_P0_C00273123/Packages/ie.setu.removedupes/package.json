@@ -1,0 +1,7 @@
+{
+  "name": "ie.setu.removedupes",
+  "version": "0.1.0",
+  "displayName": "RemoveDupes",
+  "description": "A filter that removes duplicates",
+  "unity": "2022.3"
+}
