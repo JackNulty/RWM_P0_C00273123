@@ -1,0 +1,7 @@
+{
+  "name": "ie.setu.removeoddnumbersfilter",
+  "version": "0.1.0",
+  "displayName": "RemoveOddNumbersFilter",
+  "description": "A filter that removes odd numbers.",
+  "unity": "2022.3"
+}

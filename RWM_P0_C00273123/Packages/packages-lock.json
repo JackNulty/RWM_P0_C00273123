@@ -225,6 +225,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "ie.setu.removeoddnumbersfilter": {
+      "version": "file:ie.setu.RemoveOddNumbers",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
